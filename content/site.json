@@ -1,36 +1,33 @@
 {
   "s": {
-    "name": "Ahmed Babundau Ngao",
-    "title": "Graphic Designer | AI Content Creator | Digital Marketer | WordPress Website Designer",
-    "headline": "I design brands, create AI videos & build websites that sell.",
+    "photo2": "/assets/uploads/ahmed-about.webp",
     "sub": "Graphic design, AI video & content creation, digital marketing & WordPress websites for brands that want to grow.",
-    "about": "I am a Nairobi-based creative who blends graphic design, AI-generated video, social media marketing and WordPress web design to help businesses look sharp and sell more.",
-    "accent": "#B8892B",
+    "tt": "",
     "phone1": "+254714970830",
     "phone2": "+254720829332",
+    "accent": "#B8892B",
     "wa": "254714970830",
-    "email": "ahmedbabumwinyi801@gmail.com",
-    "photo": "/assets/uploads/ahmed-home.webp",
-    "photo2": "/assets/uploads/ahmed-about.webp",
+    "name": "Ahmed Babundau Ngao",
+    "about": "I am a Nairobi-based creative who blends graphic design, AI-generated video, social media marketing and WordPress web design to help businesses look sharp and sell more.",
     "st1": "3+ years experience",
     "st2": "Nairobi, Kenya",
     "st3": "Available for Hire/Job/Freelance",
+    "photo": "/assets/uploads/ahmed-home.webp",
     "cv": "/assets/ahmed-babundau-ngao-cv.pdf",
-    "li": "https://www.linkedin.com/in/ahmed-ngao-758811361/",
-    "ig": "",
-    "tt": "",
+    "headline": "I design brands, create AI videos & build websites that sell.",
+    "title": "Graphic Designer | AI Content Creator | Digital Marketer | WordPress Website Designer",
+    "yt": "",
     "fb": "",
-    "yt": ""
+    "email": "ahmedbabumwinyi801@gmail.com",
+    "li": "https://www.linkedin.com/in/ahmed-ngao-758811361/",
+    "ig": ""
   },
   "projects": [
     {
-      "title": "BELGRAVIA PLACE PROJECT",
-      "cat": "AI Videos",
-      "desc": "Marketing the Belgravia Place Project",
-      "client": "Mandhari Realty Group",
-      "tools": "Claude, Nano Banana, Google Flow",
-      "cover": "/assets/uploads/belgravia-cover.webp",
       "alt": "Belgravia Place project visual",
+      "client": "Mandhari Realty Group",
+      "desc": "Marketing the Belgravia Place Project",
+      "feat": true,
       "gallery": [
         "/assets/uploads/belgravia-1.webp",
         "/assets/uploads/belgravia-2.webp",
@@ -38,10 +35,13 @@
         "/assets/uploads/belgravia-4.webp",
         "/assets/uploads/belgravia-5.webp"
       ],
-      "video": "",
+      "cat": "AI Videos",
+      "cover": "/assets/uploads/belgravia-cover.webp",
+      "title": "BELGRAVIA PLACE PROJECT",
       "link": "https://drive.google.com/file/d/1xDDYdNLgsEBIrIzlQxjlSERQx_sTxI2E/view?usp=sharing",
-      "pub": true,
-      "feat": true
+      "video": "",
+      "tools": "Claude, Nano Banana, Google Flow",
+      "pub": true
     }
   ],
   "services": [
@@ -169,5 +169,10 @@
       "logo": ""
     }
   ],
-  "testimonials": []
+  "testimonials": [
+    {
+      "name": "Saroh January, Mandhari Realty Group",
+      "text": "I love your creativity"
+    }
+  ]
 }
