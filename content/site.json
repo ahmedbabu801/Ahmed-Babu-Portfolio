@@ -1,0 +1,173 @@
+{
+  "s": {
+    "name": "Ahmed Babundau Ngao",
+    "title": "Graphic Designer | AI Content Creator | Digital Marketer | WordPress Website Designer",
+    "headline": "I design brands, create AI videos & build websites that sell.",
+    "sub": "Graphic design, AI video & content creation, digital marketing & WordPress websites for brands that want to grow.",
+    "about": "I am a Nairobi-based creative who blends graphic design, AI-generated video, social media marketing and WordPress web design to help businesses look sharp and sell more.",
+    "accent": "#B8892B",
+    "phone1": "+254714970830",
+    "phone2": "+254720829332",
+    "wa": "254714970830",
+    "email": "ahmedbabumwinyi801@gmail.com",
+    "photo": "/assets/uploads/ahmed-home.webp",
+    "photo2": "/assets/uploads/ahmed-about.webp",
+    "st1": "3+ years experience",
+    "st2": "Nairobi, Kenya",
+    "st3": "Available for Hire/Job/Freelance",
+    "cv": "/assets/ahmed-babundau-ngao-cv.pdf",
+    "li": "https://www.linkedin.com/in/ahmed-ngao-758811361/",
+    "ig": "",
+    "tt": "",
+    "fb": "",
+    "yt": ""
+  },
+  "projects": [
+    {
+      "title": "BELGRAVIA PLACE PROJECT",
+      "cat": "AI Videos",
+      "desc": "Marketing the Belgravia Place Project",
+      "client": "Mandhari Realty Group",
+      "tools": "Claude, Nano Banana, Google Flow",
+      "cover": "/assets/uploads/belgravia-cover.webp",
+      "alt": "Belgravia Place project visual",
+      "gallery": [
+        "/assets/uploads/belgravia-1.webp",
+        "/assets/uploads/belgravia-2.webp",
+        "/assets/uploads/belgravia-3.webp",
+        "/assets/uploads/belgravia-4.webp",
+        "/assets/uploads/belgravia-5.webp"
+      ],
+      "video": "",
+      "link": "https://drive.google.com/file/d/1xDDYdNLgsEBIrIzlQxjlSERQx_sTxI2E/view?usp=sharing",
+      "pub": true,
+      "feat": true
+    }
+  ],
+  "services": [
+    {
+      "icon": "🎨",
+      "title": "Graphic Design & Branding",
+      "text": "Logos, brand identities, posters and marketing collateral."
+    },
+    {
+      "icon": "🎬",
+      "title": "AI Video & Ad Creation",
+      "text": "UGC-style ads, storytelling videos and product visuals."
+    },
+    {
+      "icon": "📱",
+      "title": "AI Content & Social Media Management",
+      "text": "Planning, creating and posting content that keeps audiences engaged."
+    },
+    {
+      "icon": "🌐",
+      "title": "WordPress Website Design & Management",
+      "text": "Fast, mobile-friendly Elementor websites, built and maintained."
+    },
+    {
+      "icon": "📸",
+      "title": "Product Photography",
+      "text": "Clean product shots for catalogues, ads and online stores."
+    },
+    {
+      "icon": "🖨️",
+      "title": "Print Production & Artwork Preparation",
+      "text": "Print-ready artwork and large-format production."
+    }
+  ],
+  "skills": [
+    "Illustrator",
+    "Photoshop",
+    "InDesign",
+    "Canva",
+    "WordPress",
+    "Elementor",
+    "Kling",
+    "Runway",
+    "Luma",
+    "Veo / Google Flow",
+    "Nano Banana",
+    "Claude",
+    "Digital marketing",
+    "Large-format printing"
+  ],
+  "experience": [
+    {
+      "role": "AI Video Marketing Content & Social Media Manager",
+      "org": "Synchro Pamoja & ACCO Kenya (part-time, remote)",
+      "date": "Current",
+      "pts": [
+        "Create AI-generated video and social content for campaigns.",
+        "Plan and manage social media channels.",
+        "Edit and adapt content for each platform."
+      ]
+    },
+    {
+      "role": "Graphic Designer | AI Video Marketing Content | Photographer | Digital Marketing",
+      "org": "King’s Collection",
+      "date": "2024 – present",
+      "pts": [
+        "Design posters and brand visuals.",
+        "Produce AI video ads and product visuals.",
+        "Photograph products and run digital marketing."
+      ]
+    },
+    {
+      "role": "Graphic Designer | Printing Operator",
+      "org": "Danki Plus Enterprises",
+      "date": "2024",
+      "pts": [
+        "Designed and prepared artwork for print.",
+        "Operated printing equipment."
+      ]
+    },
+    {
+      "role": "Junior Graphic Designer | Printing Operator",
+      "org": "Mattel Printshop",
+      "date": "2023 – 2024",
+      "pts": [
+        "Produced designs for client jobs.",
+        "Prepared files and operated printers."
+      ]
+    },
+    {
+      "role": "Freelance Web Designer",
+      "org": "Self-employed",
+      "date": "2026",
+      "pts": [
+        "Built WordPress websites with Elementor.",
+        "Managed client site content."
+      ]
+    }
+  ],
+  "certs": [
+    "WordPress Web Development (Elementor) – Digital Moran Academy, 2026",
+    "Artificial Intelligence – ALX Africa, 2025",
+    "Digital Marketing – IYF Academy, 2025",
+    "Graphic Design – Webbs Institute, 2024"
+  ],
+  "brands": [
+    {
+      "n": "King’s Collection",
+      "logo": ""
+    },
+    {
+      "n": "Synchro Pamoja",
+      "logo": ""
+    },
+    {
+      "n": "ACCO Kenya",
+      "logo": ""
+    },
+    {
+      "n": "Danki Plus",
+      "logo": ""
+    },
+    {
+      "n": "Mattel Printshop",
+      "logo": ""
+    }
+  ],
+  "testimonials": []
+}

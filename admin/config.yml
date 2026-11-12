@@ -1,0 +1,105 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: assets/uploads
+public_folder: /assets/uploads
+site_url: https://YOUR-DOMAIN.com
+display_url: https://YOUR-DOMAIN.com
+collections:
+  - name: site
+    label: Portfolio
+    files:
+      - name: content
+        label: Site content
+        file: content/site.json
+        format: json
+        fields:
+          - label: Settings
+            name: s
+            widget: object
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Title line, name: title, widget: string}
+              - {label: Hero headline, name: headline, widget: string}
+              - {label: Hero sub-line, name: sub, widget: text}
+              - {label: About text, name: about, widget: text}
+              - {label: Accent colour, name: accent, widget: color}
+              - {label: Phone 1, name: phone1, widget: string}
+              - {label: Phone 2, name: phone2, widget: string}
+              - {label: WhatsApp number (digits only), name: wa, widget: string}
+              - {label: Email, name: email, widget: string}
+              - {label: Home photo, name: photo, widget: image, required: false}
+              - {label: About photo, name: photo2, widget: image, required: false}
+              - {label: Home strip 1, name: st1, widget: string, required: false}
+              - {label: Home strip 2, name: st2, widget: string, required: false}
+              - {label: Home strip 3, name: st3, widget: string, required: false}
+              - {label: CV (PDF), name: cv, widget: file, required: false}
+              - {label: LinkedIn URL, name: li, widget: string, required: false}
+              - {label: Instagram URL, name: ig, widget: string, required: false}
+              - {label: TikTok URL, name: tt, widget: string, required: false}
+              - {label: Facebook URL, name: fb, widget: string, required: false}
+              - {label: YouTube URL, name: yt, widget: string, required: false}
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Category, name: cat, widget: select, options: ["Graphic Design", "AI Videos", "AI Images & Product Visuals", "Social Media", "Websites", "Print"]}
+              - {label: Description, name: desc, widget: text}
+              - {label: Client, name: client, widget: string, required: false}
+              - {label: Tools used, name: tools, widget: string, required: false}
+              - {label: Cover image, name: cover, widget: image, required: false}
+              - {label: Image alt text, name: alt, widget: string, required: false}
+              - label: Gallery images (drag to reorder)
+                name: gallery
+                widget: list
+                required: false
+                field: {label: Image, name: img, widget: image}
+              - {label: Video link (YouTube or Vimeo), name: video, widget: string, required: false}
+              - {label: External link, name: link, widget: string, required: false}
+              - {label: Published, name: pub, widget: boolean, default: true}
+              - {label: Featured, name: feat, widget: boolean, default: false}
+          - label: Services
+            name: services
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Icon (emoji), name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: text, widget: text}
+          - label: Skills and tools
+            name: skills
+            widget: list
+            field: {label: Skill, name: skill, widget: string}
+          - label: Experience
+            name: experience
+            widget: list
+            summary: "{{fields.role}}"
+            fields:
+              - {label: Job title, name: role, widget: string}
+              - {label: Company, name: org, widget: string}
+              - {label: Dates, name: date, widget: string}
+              - label: Bullet points
+                name: pts
+                widget: list
+                field: {label: Point, name: pt, widget: string}
+          - label: Certificates
+            name: certs
+            widget: list
+            field: {label: Certificate, name: cert, widget: string}
+          - label: Brands
+            name: brands
+            widget: list
+            summary: "{{fields.n}}"
+            fields:
+              - {label: Brand name, name: n, widget: string}
+              - {label: Logo, name: logo, widget: image, required: false}
+          - label: Testimonials
+            name: testimonials
+            widget: list
+            required: false
+            summary: "{{fields.name}}"
+            fields:
+              - {label: Client name, name: name, widget: string}
+              - {label: Testimonial, name: text, widget: text}
