@@ -42,6 +42,16 @@
       "video": "",
       "tools": "Claude, Nano Banana, Google Flow",
       "pub": true
+    },
+    {
+      "pub": true,
+      "feat": false,
+      "title": "TRACKSUIT PRODUCT UGC",
+      "cat": "AI Videos",
+      "desc": "Showcasing the 2-Pc Trackuit set. The key details, uniqueness & different uses",
+      "tools": "Claude, Nano Banana, Google Flow",
+      "client": "King's Collection",
+      "cover": "/assets/uploads/image_20261021142035.webp"
     }
   ],
   "services": [
