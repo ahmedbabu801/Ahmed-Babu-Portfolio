@@ -44,14 +44,15 @@
       "pub": true
     },
     {
-      "pub": true,
-      "feat": false,
-      "title": "TRACKSUIT PRODUCT UGC",
-      "cat": "AI Videos",
-      "desc": "Showcasing the 2-Pc Trackuit set. The key details, uniqueness & different uses",
-      "tools": "Claude, Nano Banana, Google Flow",
       "client": "King's Collection",
-      "cover": "/assets/uploads/image_20261021142035.webp"
+      "desc": "Showcasing the 2-Pc Trackuit set. The key details, uniqueness & different uses",
+      "feat": false,
+      "cat": "AI Videos",
+      "cover": "/assets/uploads/image_20261021142035.webp",
+      "title": "TRACKSUIT PRODUCT UGC",
+      "link": "https://drive.google.com/file/d/19zh_QayEgcD0_oHpVHHpoTTjAaRTYkyn/view?usp=drive_link",
+      "tools": "Claude, Nano Banana, Google Flow",
+      "pub": true
     }
   ],
   "services": [
